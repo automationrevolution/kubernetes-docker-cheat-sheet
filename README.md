@@ -1,11 +1,10 @@
 # Kubernetes and Docker
 
 
-### Commands Cheat Sheet
+### Kubernetes Commands Cheat Sheet
 
 
 
-**Kubernetes Commands Cheat Sheet**
 Here is a cheat sheet of 20 frequently used Kubernetes commands, along with a detailed explanation for each of them. 
 
 Command | Explanation
